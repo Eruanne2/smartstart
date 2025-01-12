@@ -1,6 +1,10 @@
 # smartstart
 
-
+First run
+```sh
+nvm use
+```
+to ensure you're using the right version of node!
 
 ## Project Setup
 
